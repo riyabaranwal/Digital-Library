@@ -81,6 +81,12 @@ Deletes students who have not issued any book in the last 3 years.
 
 ---
 
+## Conclusion
+
+This project demonstrates a basic digital library database in PostgreSQL with sample data and practical audit queries. It can be used to understand how books are issued/returned and how to generate simple reports like overdue lists and category-wise borrowing trends.
+
+---
+
 ## Project Files
 
 - `digital_library_audit.sql` — tables + sample data + queries
